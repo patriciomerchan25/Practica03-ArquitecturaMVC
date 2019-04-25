@@ -46,9 +46,13 @@ Practica 3 POO JAVA
 ![image](https://user-images.githubusercontent.com/49033556/56705106-35e86280-66d5-11e9-9a17-4765783c2588.png)
 
 RESULTADO(S) OBTENIDO(S):
-
 Cuando selecciona la opción 1 es donde vamos crear un nuevo Aire Acondicionado.
+
+
 ![image](https://user-images.githubusercontent.com/49033556/56705163-78aa3a80-66d5-11e9-92fd-ad6ef424365c.png)
+
+
+
 
 Cuando selecciona la opción 2 lee los datos Ingresados.
 ![image](https://user-images.githubusercontent.com/49033556/56705184-8e1f6480-66d5-11e9-926f-a0c49e676d96.png)
