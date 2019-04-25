@@ -46,6 +46,7 @@ Practica 3 POO JAVA
 ![image](https://user-images.githubusercontent.com/49033556/56705106-35e86280-66d5-11e9-9a17-4765783c2588.png)
 
 RESULTADO(S) OBTENIDO(S):
+
 Cuando selecciona la opción 1 es donde vamos crear un nuevo Aire Acondicionado.
 ![image](https://user-images.githubusercontent.com/49033556/56705163-78aa3a80-66d5-11e9-92fd-ad6ef424365c.png)
 
@@ -54,4 +55,27 @@ Cuando selecciona la opción 2 lee los datos Ingresados.
 
 Cuando selecciona la opción 3 actualiza los datos buscando por el código.
 ![image](https://user-images.githubusercontent.com/49033556/56705221-b73ff500-66d5-11e9-85bf-b9bfbe189858.png)
+
+Cuando selecciona la opción 4 elimina los datos ingresando el código y confirmamos con el read que nos da null.
+![image](https://user-images.githubusercontent.com/49033556/56705458-93c97a00-66d6-11e9-9df1-68efdd763cc3.png)
+
+
+Cuando selecciona la opción 5 imprime el nombre del Aire Acondicionado Ingresado.
+
+![image](https://user-images.githubusercontent.com/49033556/56705529-de4af680-66d6-11e9-86ca-c718d29c59ce.png)
+
+Cuando selecciona la opción 6 regresa al Menú principal.
+
+![image](https://user-images.githubusercontent.com/49033556/56705568-0b97a480-66d7-11e9-89dd-0b7575bc09bb.png)
+
+Link: https://github.com/patriciomerchan25/Practica03-ArquitecturaMVC
+
+CONCLUSIONES:
+
+En esta práctica 3 aplicamos 4 Interfases distintas la cual los aplicamos para cada controlador y cada una de ellas tiene sus ventajas como interfaz Set o SortedSet y Map como la de ordenar de forma natural, no permite ingresar atributos repetidos, la cual debemos implementar de acuerdo al atributo  que  tengamos las cuales son equals, hashcode, compareTo.
+Cada Interfaz se implemento con el Crud la cual sus métodos cambiaron un poco como del Map.
+
+RECOMENDACIONES:
+
+El Modelo Vista Controlador tiene grandes ventajas por que a la hora de hacer el Crud  no se implementa directamente en las clase Abuelo, Padres o Hijas,  para ello se crea los controladores donde creamos todos los métodos y las Interfases. 
 
